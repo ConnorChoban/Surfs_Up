@@ -6,11 +6,11 @@ The purpose of this analysis is to examine climate data for the months of June a
 
 ## Results
 
-### June
+- In June the average temperature was approximately 75 degrees, with a minimum of 64 degrees and a maximum temperature of 85 degrees. 
+- In December the average temperature was approximately 71 degrees, with a minimum of 56 degrees and a maximum of 83 degrees. 
+- The 
 
--
--
--
+### June
 
 <img width="199" alt="Screen Shot 2022-07-12 at 5 47 26 AM" src="https://user-images.githubusercontent.com/99847786/178462316-b9d4f139-354e-40da-bcbd-ad2f51a0afc1.png">
 
