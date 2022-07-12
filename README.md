@@ -2,7 +2,7 @@
 
 ## Overview of Analysis
 
-The purpose of this analysis is to examine climate data for the months of June and December in order to determine whether our surf and ice cream shop business is stustainable year-round. To do so, we'll specifically focus on temperatures across both months, as the temperature has a direct impact on demand for both ice cream and surf rentals and other water/ocean-based activities. 
+The purpose of this analysis is to examine climate data for the months of June and December in order to determine whether our surf and ice cream shop business is sustainable year-round. To do so, we'll specifically focus on air temperatures across both months, as the temperature has a direct impact on demand for both ice cream and surf rentals and other water/ocean-based activities. 
 
 ## Results
 
