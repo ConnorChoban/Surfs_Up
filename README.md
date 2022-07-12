@@ -8,9 +8,9 @@ The purpose of this analysis is to examine climate data for the months of June a
 
 ### June
 
-#
-#
-#
+-
+-
+-
 
 <img width="199" alt="Screen Shot 2022-07-12 at 5 47 26 AM" src="https://user-images.githubusercontent.com/99847786/178462316-b9d4f139-354e-40da-bcbd-ad2f51a0afc1.png">
 
