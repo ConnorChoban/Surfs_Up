@@ -8,7 +8,7 @@ The purpose of this analysis is to examine climate data for the months of June a
 
 - In June the average temperature was approximately 75 degrees, with a minimum of 64 degrees and a maximum temperature of 85 degrees. 
 - In December the average temperature was approximately 71 degrees, with a minimum of 56 degrees and a maximum of 83 degrees. 
-- In the plots below, we can see that for the month of June the temperatures tend to cluster within 70 to 80 degrees, which we generally could consider as pleasant temperatures; not too hot to encourage high demand for ice cream but warm enough for ocean activities to take place.
+- In the plots below, we see that for the month of June the temperatures tend to cluster within 70 to 80 degrees, which we generally could consider as pleasant temperatures; not too hot to encourage high demand for ice cream but warm enough for ocean activities to take place.
 - For contrast, in the month of December, temperatures tend to cluster between 67-68 degrees and 75 degrees, which is slightly colder but not significantly so as to have a major impact on demand. However, as noted above the minimum temperature for December was 56 degrees, and there were a few days where the temperature was below 65 degrees which may be deemed too cold for ice cream or to participate in ocean activities. 
 
 ### June
